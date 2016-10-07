@@ -1,0 +1,217 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+margin:0px;
+background:url(images/bg.jpg) repeat-x top;
+background-color:#850D16;
+}
+
+#gradient {
+position:absolute;
+width:100%; height:94px;
+margin:0px;
+z-index:-1;
+}
+
+#gradient .color_dark {
+background:url(images/bg_gradient.jpg) repeat-x;
+width:50%; height:94px;
+float:left;
+margin:0px;
+}
+
+#gradient .color_light {
+background:#D8D8D7;
+width:50%; height:94px;
+float:left;
+margin:0px;
+}
+
+/*CALOSC STRONY*/
+
+#center {
+width:941px; height:auto;
+margin:auto;
+}
+
+#logo {
+background:url(images/logo.jpg);
+width:941px; height:94px;
+margin:0px;
+float:left;
+}
+
+/******GORA******/
+
+#top_contain {
+background:url(images/top_bg.jpg);
+width:941px; height:48px;
+float:left;
+margin:0px;
+}
+
+/*MENU GORNE*/
+
+#top_menu {
+width:254px; height:27px;
+float:right;
+margin:-22px 74px 0px 0px;
+}
+
+.link {
+width:auto; height:27px;
+float:left;
+margin:0px 0px 0px 5px;
+}
+
+/*NAGLOWEK*/
+
+#title {
+background:url(images/title.jpg);
+width:353px; height:16px;
+float:left;
+margin:9px 0px 0px 186px;
+}
+
+#under_title_container {
+width:900px; height:auto;
+float:left;
+margin:0px 0px 0px 27px;
+}
+
+#under_title_left {
+width:auto; height:auto;
+float:left;
+margin:0px;
+}
+
+#under_title_right {
+width:auto; height:auto;
+float:right;
+margin:0px 293px 0px 0px;
+}
+
+.text-title {
+font-family:Arial;
+color:#A92831;
+font-size:17px;
+font-weight:bold;
+}
+
+/******KONIEC GORA******/
+
+/******SRODEK******/
+
+#middle_contain {
+background:url(images/middle_bg.jpg);
+width:941px; height:441px;
+float:left;
+margin:0px;
+}
+
+/*STOJAK ZE ZDJECIEM*/
+
+#underlay {
+background:url(images/pictures.jpg);
+width:392px; height:342px;
+float:right;
+margin:12px 25px 0px 0px;
+}
+
+#picture {
+width:363px; height:272px;
+float:left;
+margin:14px 14px 0px 14px;
+}
+
+#left_container {
+width:500px; height:417px;
+float:left;
+margin:0px 0px 0px 7px;
+}
+
+#text-salon_container {
+width:auto; height:auto;
+float:left;
+margin:22px 0px 0px 33px;
+}
+
+.text-salon {
+font-family:Tahoma;
+font-size:13px;
+color:#333333;
+}
+
+#text-list_container {
+width:auto; height:auto;
+float:left;
+margin:15px 0px 0px 10px;
+}
+
+#text-list_container ul {
+padding-left:20px;
+}
+#text-list_container li {
+list-style:url(images/kropa.jpg);
+font-family:Tahoma;
+font-size:11px;
+color:333333;
+font-weight:bold;
+padding-left:5px;
+margin-top:12px;
+}
+
+#Make4you {
+width:500px; height:auto;
+font-size:18px;
+font-family:Tahoma;
+color:#333333;
+float:left;
+margin:100px 0px 0px 0px;
+text-align:center;
+}
+
+#phone {
+background:url(images/phone.jpg) no-repeat center top;
+width:75px; height:39px;
+float:left;
+margin:30px 0px 0px 20px;
+}
+
+#number {
+width:75px; height:auto;
+font-size:11px;
+font-family:tahoma;
+color:333333;
+float:left;
+text-align:center;
+font-weight:bold;
+margin:25px 0px 0px 0px;
+}
+
+/******KONIEC SRODEK******/
+
+/******STOPKA******/
+
+#foot_contain {
+background:url(images/foot_bg.jpg);
+width:941px; height:31px;
+float:left;
+margin:0px;
+}
+
+#copyright {
+width:auto; height:auto;
+float:left;
+margin:10px 0px 0px 25px;
+font-family:tahoma;
+font-size:11px;
+color:#333333;
+}
+
+/******KONIEC STOPKA******/
+
+
+
+
